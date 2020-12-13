@@ -14,7 +14,7 @@
 
 #define MAX_CAD 100
 
-#define MAX_ARM 2666
+#define MAX_ARM 2777
 
 // Si se hace uso de constantes deben definirse aqui
 
